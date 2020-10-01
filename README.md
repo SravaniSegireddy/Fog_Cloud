@@ -26,7 +26,9 @@ There is also a demand  for cloud data centers(DCs) with irreplacable dependency
 Data Centers(DCs) exhausts huge amount of power and yields tons of CO2 gas.
 
 #Scope
-FOG Computing devices : Real time and latency sensitive applications with limited semi permanent  storage.
-Cloud Computing : The application requests that require historical data and large computational power 
+## FOG Computing devices
+Real time and latency sensitive applications with limited semi permanent  storage.
+## Cloud Computing
+The application requests that require historical data and large computational power 
 Suitability of FOG computing combined with the traditional cloud computing supports the ever increasing demands of latency hungry IoT based applications.  
 
