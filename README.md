@@ -12,9 +12,9 @@ cost
 Service Latency
 CO2 emission
 
-#Objective
-To evaluate the performance for an environment with high number of Internet Interconnected devices.(Terminal Nodes).
-Finally to assess the suitability of FOG computing combined with the traditional cloud computing  in the context of IoT.
+# Objective
+To evaluate the performance for an environment with high number of Internet inter-connected devices.(Terminal Nodes).</br>
+Finally to assess the suitability of FOG computing combined with the traditional cloud computing  in the context of IoT.</br>
 
 
 #Motivation
