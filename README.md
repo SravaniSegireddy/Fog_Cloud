@@ -1,16 +1,16 @@
 # Fog_Cloud
 Assessment of Suitability of FOG Computing over Cloud Computing in the context of IoT
 
-#Introduction
-A rigorous and comparative analysis of the fog computing paradigm with the conventional cloud computing paradigm is performed.
-The Analysis of suitability of Fog Computing is done in the context of the Internet of Things(IoT).
-The Fog Computing Architecture and various parameters are used to determine the Suitability of fog computing in IoT 
+# Introduction
+A rigorous and comparative analysis of the fog computing paradigm with the conventional cloud computing paradigm is performed.</br>
+The Analysis of suitability of Fog Computing is done in the context of the Internet of Things(IoT).</br>
+The Fog Computing Architecture and various parameters are used to determine the Suitability of fog computing in IoT </br>
 
-To Model the fog computing paradigm by mathematically characterising the networking in terms of…. 
-power consumption
-cost 
-Service Latency
-CO2 emission
+To Model the fog computing paradigm by mathematically characterising the networking in terms of: 
+- power consumption
+- cost 
+- Service Latency
+- CO2 emission
 
 #Objective
 To evaluate the performance for an environment with high number of Internet Interconnected devices.(Terminal Nodes).
